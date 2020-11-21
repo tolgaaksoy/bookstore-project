@@ -26,6 +26,8 @@ Uygulama özellikleri:
 * Javascript
 * Thymeleaf
 
+"Tasarımda Nice Admin temasından faydalanılmıştır."
+
 
 ## :package: Maven ile Kurulum
 
